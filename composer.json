@@ -1,0 +1,6 @@
+{
+	
+    "require": {
+        "payapi/payapi-sdk-php": "^2.0"
+    }
+}
